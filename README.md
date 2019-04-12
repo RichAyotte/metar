@@ -31,16 +31,24 @@ cd metar
 yarn
 ```
 
-## Unit tests
+## Tests
+
+### Unit
 
 ```
 yarn test
 ```
 
-### Lint tests
+### Lint
 
 ```
 yarn lint
+```
+
+## Running
+
+```
+node index.js
 ```
 
 ## Authors
