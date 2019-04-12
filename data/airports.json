@@ -1,0 +1,45 @@
+[{
+   "icaoCode": "CYAM"
+   , "name": "Sault Ste Marie Airport"
+   , "timezone": -5
+}, {
+   "icaoCode": "CYAV"
+   , "name": "Winnipeg / St. Andrews Airport"
+   , "timezone": -6
+}, {
+   "icaoCode": "CYAW"
+   , "name": "Halifax / CFB Shearwater Heliport"
+   , "timezone": -4
+}, {
+   "icaoCode": "CYAY"
+   , "name": "St. Anthony Airport"
+   , "timezone": -3.5
+}, {
+   "icaoCode": "CYAZ"
+   , "name": "Tofino / Long Beach Airport"
+   , "timezone": -8
+}, {
+   "icaoCode": "CYBB"
+   , "name": "Kugaaruk Airport"
+   , "timezone": -7
+}, {
+   "icaoCode": "CYBC"
+   , "name": "Baie Comeau Airport"
+   , "timezone": -5
+}, {
+   "icaoCode": "CYBG"
+   , "name": "CFB Bagotville"
+   , "timezone": -5
+}, {
+   "icaoCode": "CYBK"
+   , "name": "Baker Lake Airport"
+   , "timezone": -6
+}, {
+   "icaoCode": "CYBL"
+   , "name": "Campbell River Airport"
+   , "timezone": -8
+}, {
+   "icaoCode": "CYBR"
+   , "name": "Brandon Municipal Airport"
+   , "timezone": -6
+}]
